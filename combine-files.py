@@ -1,6 +1,6 @@
 # to run:
 # open terminal and navigate to directory containing combine-files.py
-# be sure file_1.txt and file_2.txt are in the same directory as combine-files.py
+# be sure file_1.txt, file_2.txt, and output.txt (or any named text files) are in the same directory as combine-files.py
 # run this command below:
 # python combine-files.py file_1.txt file_2.txt output.txt
 # feel free to alter the sums to test different cases
